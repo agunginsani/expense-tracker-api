@@ -5,5 +5,5 @@
 ```mermaid
 erDiagram
 EXPENSE }|--|| CATEGORY : has
-EXPENSE }|--|| USER : created
+EXPENSE }|--|| USER : create
 ```
